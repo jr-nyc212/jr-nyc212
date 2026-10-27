@@ -8,7 +8,7 @@ Customer success is getting more technical. Customers ask about APIs, data model
 
 - **Front-end fundamentals** through the Scrimba Fullstack Developer Path: Command Line Basics, HTML and CSS, and JavaScript modules completed (October 2026); accessibility (WCAG) and the rest of the path in progress
 - **AI tooling**: Anthropic Claude Academy certificates in Claude 101 and AI Fluency: Framework and Foundations (October 2026)
-- **Cloud**: AWS Cloud Practitioner is next, once the Scrimba path is far enough along (target early 2027)
+- **Cloud**: AWS Certified Cloud Practitioner is next, once the Scrimba path is far enough along (target early 2027)
 - **Data fundamentals**: JSON, REST APIs, and relational databases
 
 ## Projects
